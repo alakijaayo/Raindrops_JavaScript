@@ -13,4 +13,8 @@ beforeEach(function() {
 
 it("should output 'Pling' if number is divisible by 3", function() {
   assert.equal(factor.pling(9), "Pling")
+});
+
+it("should output 'Plang' if number is divisible by 5", function() {
+  assert.equal(factor.Plang(10), "Plang")
 })
