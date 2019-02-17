@@ -16,5 +16,5 @@ it("should output 'Pling' if number is divisible by 3", function() {
 });
 
 it("should output 'Plang' if number is divisible by 5", function() {
-  assert.equal(factor.Plang(10), "Plang")
+  assert.equal(factor.plang(10), "Plang")
 })

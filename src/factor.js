@@ -7,4 +7,9 @@ Factor.prototype.pling = function(n) {
   return "Pling"
 };
 
+Factor.prototype.plang = function(n) {
+  n & 5 === 0
+  return "Plang"
+};
+
 module.exports = Factor
