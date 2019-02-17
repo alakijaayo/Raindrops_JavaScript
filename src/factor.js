@@ -17,5 +17,4 @@ Factor.prototype.plong = function(n) {
   return "Plong"
 };
 
-
 module.exports = Factor
