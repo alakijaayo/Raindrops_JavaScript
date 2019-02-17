@@ -12,4 +12,10 @@ Factor.prototype.plang = function(n) {
   return "Plang"
 };
 
+Factor.prototype.plong = function(n) {
+  n % 7 === 0
+  return "Plong"
+};
+
+
 module.exports = Factor
