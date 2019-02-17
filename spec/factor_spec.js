@@ -1,15 +1,15 @@
 const mocha = require("mocha");
 const expect = require("chai").expect;
 const Factor = require('../src/factor');
-var assert = require("chai").expect;
+var assert = require("chai").assert;
 
-describe("Factor", () => {
+describe("Factor", function() {
   var factor
 });
 
-beforeEach = () => {
+beforeEach(function() {
   factor = new Factor();
-}
+});
 
 it("should output 'Pling' if number is divisible by 3", function() {
   assert.equal(factor.pling(9), "Pling")
