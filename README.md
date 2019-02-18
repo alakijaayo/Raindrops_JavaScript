@@ -1,6 +1,6 @@
 # Raindrops_JavaScript
 
-This repository is work based on a tech test provided by Deloitte System Integration. In it, we are expected to work on the puzzle Raindrops. Having done the tech test in Ruby, I decided to also give it a go in javaScript.
+This repository is work based on a tech test provided. In it, we are expected to work on the puzzle Raindrops. Having done the tech test in Ruby, I decided to also give it a go in javaScript.
 
 ## Task
 
